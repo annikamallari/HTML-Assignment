@@ -1,0 +1,15 @@
+<html>
+ <header>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap .min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" cro ssorigin="anonymous"/>
+ </header>
+ <body>
+  <h1>Product List</h1>
+  <table>
+    <tr><th>Code</th><th>Name</th><th>Price</th></tr>
+    <tr><td><a href="index.html">100</a></td><td>Americano</td><td>125</td></tr>
+    <tr><td><a href="aboutus.html">200</a></td><td>Brewed Coffee</td><td>100</td></tr>
+    <tr><td><a href="products.html">300</a></td><td>Cappuccino</td><td>120</td></tr>
+    <tr><td><a href="branches.html">400</a></td><td>Espresso</td><td>120</td></tr>
+  </table>
+ </body>
+</html>
